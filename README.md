@@ -1,1 +1,2 @@
 # rinha_2024
+[Rinha de Backend](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) usando como base a implementação do [Navarro](https://www.youtube.com/watch?v=wbaw3bBMBag&list=PLeanNrJr5pnYT3mQeQ0xd58162GJ9-0DJ&index=4) em Rust.
